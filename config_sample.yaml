@@ -1,0 +1,14 @@
+
+konten:
+  crypto_com_app_fiat: "Crypto.com FIAT"
+  crypto_com_app_visa: "Crypto.com VISA"
+  crypto_com_external_visa: "External Visa"
+
+depots:
+  crypto_com_app_crypto: "Crypto.com App Wallet"
+  crypto_com_defi_crypto: "Crypto.com DeFi Wallet"
+
+locales:
+  history: en_US.UTF-8
+  pp: de_DE.UTF-8
+  crypto_com: en_US.UTF-8

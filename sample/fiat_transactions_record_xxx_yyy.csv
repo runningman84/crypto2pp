@@ -1,0 +1,7 @@
+Timestamp (UTC),Transaction Description,Currency,Amount,To Currency,To Amount,Native Currency,Native Amount,Native Amount (in USD),Transaction Kind
+2022-01-12 06:11:59,EUR -> MANA,EUR,26.33,MANA,10.0,EUR,26.33,29.9131988831,viban_purchase
+2022-01-12 06:10:50,EUR -> SOL,EUR,62.43,SOL,0.5,EUR,62.43,70.9259782101,viban_purchase
+2022-01-02 19:11:29,EUR -> CRO,EUR,102.71,CRO,200.0,EUR,102.71,116.6876056697,viban_purchase
+2021-11-30 21:34:47,Top Up Card,EUR,100.0,EUR,100.0,EUR,100.0,113.608807,viban_card_top_up
+2021-11-30 09:32:03,EUR -> CRO,EUR,336.85,CRO,550.0,EUR,336.85,382.6912663795,viban_purchase
+2021-11-30 09:17:05,EUR Deposit (via SEPA),EUR,500.0,EUR,500.0,EUR,500.0,568.044035,viban_deposit

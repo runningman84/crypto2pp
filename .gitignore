@@ -2,7 +2,7 @@
 out/
 history/
 config.yaml
-real.sh
+live.sh
 README_private.md
 
 # Byte-compiled / optimized / DLL files

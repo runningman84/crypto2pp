@@ -1,0 +1,6 @@
+Timestamp (UTC),Transaction Description,Currency,Amount,To Currency,To Amount,Native Currency,Native Amount,Native Amount (in USD),Transaction Kind
+2021-12-01 18:23:06,Card Cashback,CRO,0.24764476,,,EUR,0.16,0.181326352,referral_card_cashback
+2021-11-30 09:33:02,Sign-up Bonus Unlocked,CRO,31.8138887,,,EUR,22.02,24.955039194,referral_gift
+2021-11-30 09:32:22,CRO Stake,CRO,-572.0,,,EUR,-350.27,-396.957383219,lockup_lock
+2021-11-30 09:32:03,EUR -> CRO,EUR,-336.85,CRO,550.0,EUR,336.85,381.748635445,viban_purchase
+2021-11-27 17:42:14,Referral Bonus Reward,CRO,31.75618859,,,EUR,22.02,24.955039194,referral_bonus
